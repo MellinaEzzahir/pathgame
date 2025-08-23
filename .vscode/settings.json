@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "defence game.sln"
+    "dotnet.defaultSolution": "nocontact.sln"
 }
